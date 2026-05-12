@@ -14,7 +14,7 @@ slug:{
     required:true,
     unique:true
 },
-image:[
+image:
  {
     public_id:{
         type:String,
@@ -27,7 +27,7 @@ image:[
         
     }
  }
-],
+,
 createdBy:{
     type: mongoose.Schema.Types.ObjectId,
    ref: "User"

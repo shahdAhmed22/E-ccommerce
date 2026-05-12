@@ -12,7 +12,8 @@
     "multer": "^2.1.1",
     "nanoid": "^5.1.6",
     "nodejs": "^0.0.0",
-    "nodemailer": "^8.0.1"
+    "nodemailer": "^8.0.1",
+    "slugify": "^1.6.9"
   },
   "name": "second-nodejs",
   "version": "1.0.0",
